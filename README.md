@@ -29,7 +29,8 @@ API_KEY=your_openweathermap_api_key_here
 ```bash
 python weather.py
 ```
-5. Output:
+
+
 ![Weather App Screenshot](image.png "Weather App Example")
 ![Weather App Screenshot](image1.png "Weather App Example")
 
