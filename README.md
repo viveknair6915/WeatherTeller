@@ -1,6 +1,8 @@
 # WeatherTeller
 WeatherTeller
 A Python project that provides weather reports using APIs.
+ ![Weather App Screenshot](image.png "Weather App Example")
+ ![Weather App Screenshot](image1.png "Weather App Example")
 
 ## Features
 - Retrieves current weather data.
@@ -19,4 +21,15 @@ A Python project that provides weather reports using APIs.
 2. Navigate to the folder:
 ```bash
 cd WeatherTeller
+```
+3. Create a .env file in the project directory with the following content:
+```bash
+API_KEY=your_openweathermap_api_key_here
+```
+
+4. Run the project:
+```bash
+python weather.py
+```
+
 
